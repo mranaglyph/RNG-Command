@@ -1,0 +1,35 @@
+Save and Quit Immediately
+Unequip Your Primary Weapon Until Next Command
+Unequip a Non-Primary Weapon Until Next Command
+No Rolling Until Next Command
+No Running Until Next Command
+Discard A Piece of Armor (Equipped) Immediately
+Discard All Pieces of Armor (Equipped) Immediately
+Drink One Estus Immediately
+Drink All Estus Immediately
+Use A Consumable Soul Immediately
+Use All Consumable Souls Immediately
+Use A Humanity/Effigy/Ember or Discard it Immediately
+Use All Humanity/Effigy/Ember or Discard them Immediately
+Make an Attempt on the Closest Boss Immediately
+Defeat a Boss with a +0 (Unupgraded) Weapon Before Next Command
+Jump Off A Cliff Immediately
+Hit A Nearby Friendly NPC (Once) Before Next Command
+Aggro A Nearby Friendly NPC Before Next Command
+Use the Darksign Before Next Command
+Backstep 10 Times Immediately
+Roll Forward 5 Times Immediately
+Upgrade a Weapon (Once) Before Next Command
+Parry 3 Unique Enemy Types Before Next Command
+Parry 5 Unique Enemy Types Before Next Command
+Perform Any Gesture Immediately
+Backstab Enemies When Possible Until Next Command
+"Eat" or Discard any Item Immediately
+Use a Bow or Crossbow Until Next Command
+Make and Use a Boss Weapon, or Defeat a Boss Before Next Command
+Farm a Nearby Enemy Type for Anything They Use Until Next Command
+Unequip A Ring Until Next Command
+Unequip All Rings Until Next Command
+Make an Attempt to Obtain the Nearest Ring Immediately
+Make an Attempt to Obtain the Nearest Armor Set Immediately
+Do What You Want Until Next Command

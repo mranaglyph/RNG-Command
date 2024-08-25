@@ -1,0 +1,23 @@
+Command List File Name:
+commandList.txt
+
+Message Box Width: 
+990
+
+Message Box Height: 
+50
+
+Message Box Width Buffer:
+15
+
+Message Box Height Buffer:
+25
+
+Time Between Commands (Seconds):
+600
+
+Time to Read Commands (Seconds):
+5
+
+Sound Effect Used (Empty Quotes/Invalid Path = None, Otherwise Path/Name to .wav is needed)
+C:\Windows\Media\notify.wav
